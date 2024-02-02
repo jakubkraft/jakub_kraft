@@ -1,0 +1,4 @@
+Celkový počet znaků (včetně mezer): 595
+Celkový počet znaků (bez mezer): 506
+Počet slov: 88
+Počet vět: 4
